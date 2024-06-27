@@ -1,0 +1,23 @@
+.activity-detail {
+    padding: 20px;
+}
+
+.activity-header {
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+}
+
+.activity-header h2 {
+    margin-top: 0;
+}
+
+.activity-header p {
+    margin: 5px 0;
+}
+
+.carousel-container {
+    margin-bottom: 20px;
+}
